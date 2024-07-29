@@ -1,3 +1,4 @@
 busybox
 --platform=linux/amd64 clickhouse/clickhouse-server
 jfxs/rye
+python:3.10
