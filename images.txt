@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox
-mysql:latest
+python:3.8
