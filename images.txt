@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox
-python:3.8
+postgres:14.2-alpine
