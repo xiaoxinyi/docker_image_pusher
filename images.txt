@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox
-postgres:14.2-alpine
+node:19.4.0-alpine3.17
