@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox
-python:3.10
+ubuntu:20.04
