@@ -1,3 +1,2 @@
 --platform=linux/amd64 busybox
-xiaoxinyi/frps
 jimmy/sp_alpine
