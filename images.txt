@@ -1,2 +1,3 @@
 --platform=linux/amd64 busybox
-ubuntu:20.04
+xiaoxinyi/frps
+jimmy/sp_alpine
