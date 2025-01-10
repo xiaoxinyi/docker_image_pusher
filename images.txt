@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox
-certbot/certbot:nightly
+ghcr.io/helm/chartmuseum:v0.16.2
