@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox
-gogs/gogs:latest
+--platform=linux/amd64 testcontainers/helloworld
