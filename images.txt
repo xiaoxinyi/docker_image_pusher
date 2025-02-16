@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox
-gogs:latest
+gogs/gogs:latest
