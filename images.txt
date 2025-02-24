@@ -7,3 +7,4 @@ k8s.gcr.io/sig-storage/csi-snapshotter:v4.0.0
 k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.1.0
 quay.io/k8scsi/livenessprobe:v2.2.0
 xiaoxinyi/kube-webhook-certgen:v1.0
+xiaoxinyi/ingress-nginx-controller:v1.0.0
