@@ -1,4 +1,3 @@
 --platform=linux/amd64 busybox
-enix/san-iscsi-csi
-mysql
+mysql:8.0.41-debian
 gogs/gogs:latest
