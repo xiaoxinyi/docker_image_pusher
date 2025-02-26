@@ -2,3 +2,4 @@
 mysql:8.0.41-debian
 gogs/gogs:latest
 gogs/gogs:0.13
+busybox:unstable-uclibc
