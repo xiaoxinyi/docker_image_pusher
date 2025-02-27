@@ -1,4 +1,5 @@
 --platform=linux/amd64 busybox
 mysql:8.0.41-debian
 gogs/gogs:0.13
+gogs/gogs
 
