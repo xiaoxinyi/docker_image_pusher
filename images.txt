@@ -3,4 +3,5 @@ mysql:8.0.41-debian
 gogs/gogs:0.13
 postgres:11
 memcached:1.5.19-alpine
+busybox
 
