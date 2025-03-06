@@ -4,4 +4,6 @@ gogs/gogs:0.13
 postgres:11
 memcached:1.5.19-alpine
 busybox:1.32.0
+SXKJ:32775/postgres-15-alpine:nokey
+SXKJ:32775/weaviate:nokey
 
