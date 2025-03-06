@@ -1,9 +1,5 @@
 --platform=linux/amd64 busybox
 mysql:8.0.41-debian
-gogs/gogs:0.13
-postgres:11
-memcached:1.5.19-alpine
-busybox:1.32.0
-postgres-15-alpine:nokey
-weaviate:nokey
+postgres-15-alpine
+weaviate
 
