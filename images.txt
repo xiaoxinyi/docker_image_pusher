@@ -1,5 +1,5 @@
 --platform=linux/amd64 busybox
 mysql:8.0.41-debian
-postgres-15-alpine
-weaviate
+postgres:14.17
+semitechnologies/weaviate:1.26.17
 
