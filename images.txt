@@ -2,4 +2,5 @@
 mysql:8.0.41-debian
 postgres:14.17
 semitechnologies/weaviate:1.26.17
+kube-webhook-certgen:v1.0
 
