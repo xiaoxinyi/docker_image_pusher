@@ -1,5 +1,6 @@
 --platform=linux/amd64 busybox
 xiaoxinyi/kube-webhook-certgen:v1.0
 xiaoxinyi/ingress-nginx-controller:v1.0.0
+nfs-server
 
 
