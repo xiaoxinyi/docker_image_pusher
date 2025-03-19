@@ -1,7 +1,8 @@
---platform=linux/amd64 busybox
-xiaoxinyi/kube-webhook-certgen:v1.0
-xiaoxinyi/ingress-nginx-controller:v1.0.0
-erichough/nfs-server:2.2.1
+--platform=linux/amd64 busybox:1.31.1
+quay.io/kiwigrid/k8s-sidecar:1.22.0
+grafana/grafana:9.3.8
+
+
 
 
 
