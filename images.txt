@@ -1,6 +1,7 @@
 --platform=linux/amd64 busybox:1.31.1
 quay.io/kiwigrid/k8s-sidecar:1.22.0
 grafana/grafana:9.3.8
+minio/minio:latest
 
 
 
