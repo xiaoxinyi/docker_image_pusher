@@ -1,7 +1,9 @@
 --platform=linux/amd64 busybox:1.31.1
 quay.io/kiwigrid/k8s-sidecar:1.22.0
 grafana/grafana:9.3.8
-jenkins/jenkins
+jenkins/jenkins:2.440.1-jdk21
+kiwigrid/k8s-sidecar:1.30.3
+jenkins/inbound-agent:3301.v4363ddcca_4e7-3
 
 
 
