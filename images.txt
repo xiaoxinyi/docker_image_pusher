@@ -1,3 +1,2 @@
 --platform=linux/amd64 busybox:1.31.1
-rust:1.86.0
-python:3.9-slim
+jenkins/inbound-agent:3299.v0d0d06908537-1
