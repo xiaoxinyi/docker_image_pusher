@@ -1,2 +1,2 @@
 --platform=linux/amd64 busybox:1.31.1
-jenkins/inbound-agent:3299.v0d0d06908537-1
+fauria/vsftpd
