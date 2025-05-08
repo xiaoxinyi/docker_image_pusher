@@ -1,2 +1,2 @@
-docker pull rancher/shell:v0.4.1-rc.2
+rancher/shell:v0.1.18
 
