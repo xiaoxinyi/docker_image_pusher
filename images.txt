@@ -1,3 +1,2 @@
-rancher/mirrored-bci-micro:15.6.24.2
-rancher/rancher:head
+rancher/shell:v0.4.1-rc.2
 
