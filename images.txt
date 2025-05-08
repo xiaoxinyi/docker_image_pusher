@@ -1,2 +1,6 @@
 --platform=linux/amd64 busybox:1.31.1
 fauria/vsftpd
+rancher/mirrored-bci-micro:15.6.24.2
+rancher/rancher:head
+rancher/shell:head
+
