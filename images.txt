@@ -1,2 +1,2 @@
-rancher/shell:v0.4.0
+rancher/shell:main-4dd38b0
 
