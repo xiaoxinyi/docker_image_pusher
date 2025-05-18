@@ -1,2 +1,2 @@
-rancher/fleet:v0.8.6
+docker.io/grafana/grafana:12.0.0
 
