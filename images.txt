@@ -1,2 +1,2 @@
-rancher/ui-plugin-operator:v0.1.1
+matomo
 
